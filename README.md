@@ -39,7 +39,7 @@ ________________________________________________________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohamme82148406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamme82148406" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/mohammed-sabry-frontend" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-sabry-69a611330" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-sabry-frontend/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-sabry-69a611330" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23145103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23145103" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mo.sab.5268?rdid=gKMYE7ud2Khf4kbk&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14eAHLFdbMg%2F#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
