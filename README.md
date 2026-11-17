@@ -15,8 +15,22 @@ I build responsive, accessible websites with React.js, Next.js and TypeScript, a
 
 Also: React Hook Form, shadcn/ui, Ant Design, Framer Motion, GSAP, REST APIs (Axios), Vercel, Netlify.
 
-**Learning now (fresh):**
-<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#, .NET" height="40" align="center"> C#, OOP and SQL so far; LINQ, Entity Framework Core and ASP.NET Core next.
+## Back-end (fresh)
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#, .NET" height="40">
+
+.NET Track at Route Academy, Jul 2026 – Jan 2027. The full curriculum and where I am:
+
+| Topic | What it covers | Status |
+|---|---|---|
+| C# fundamentals | Syntax, data types, control flow, methods | Done |
+| OOP | Classes, objects, encapsulation, inheritance, polymorphism, abstraction | Done |
+| Advanced C# | Delegates, async/await, generics, exception handling | Done |
+| Database | Database design, SQL, relationships | Done |
+| LINQ | LINQ operators, query execution | Next |
+| Entity Framework Core | Code First, migrations, snapshots, DbContext, tracking behavior | Upcoming |
+| ASP.NET Core | MVC, Web API, routing, middleware, configuration | Upcoming |
+| Architecture | Dependency injection, design patterns, architectures, authentication and authorization | Upcoming |
 
 ## Selected work
 
