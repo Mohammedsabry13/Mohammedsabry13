@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
   <title id="t">Mohammed Sabry · محمد صبري</title>
-  <desc id="d">Front-end developer, full-stack in progress. Name written in English from the left and in Arabic from the right.</desc>
+  <desc id="d">Full-stack developer. Name written in English from the left and in Arabic from the right.</desc>
   <style>
     .bg { fill: #1F4D2F; }
     .name { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 60px; font-weight: 600; }
@@ -18,7 +18,7 @@
   <rect class="bg" width="1200" height="260" rx="18"/>
   <g class="en">
     <text class="name" x="64" y="132" fill="#FFFFFF">Mohammed Sabry</text>
-    <text class="sub" x="66" y="176" fill="#CFE8D5">Front-End Developer, full-stack in progress</text>
+    <text class="sub" x="66" y="176" fill="#CFE8D5">Full-Stack Developer</text>
   </g>
   <rect class="rule" x="598" y="70" width="4" height="120" rx="2" fill="#7FBF95"/>
   <g class="ar" direction="rtl">
