@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Mohammed Sabry, محمد صبري. Front-end developer, full-stack in progress.">
+<img src="./assets/header.svg?v=3" width="100%" alt="Mohammed Sabry, محمد صبري. Full-stack developer.">
 
 I build responsive, accessible websites with React.js, Next.js and TypeScript, and I make Arabic (RTL) and English (LTR) layouts feel native in both directions. Almost 3 years in front-end; now fresh in back-end through the .NET Track at Route Academy (Jul 2026 – Jan 2027).
 
