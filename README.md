@@ -1,6 +1,6 @@
-<img src="./assets/header.svg?v=3" width="100%" alt="Mohammed Sabry, محمد صبري. Full-stack developer.">
+<img src="./assets/header.svg?v=4" width="100%" alt="Mohammed Sabry, محمد صبري. Full-stack developer.">
 
-I build responsive, accessible websites with React.js, Next.js and TypeScript, and I make Arabic (RTL) and English (LTR) layouts feel native in both directions. Almost 3 years in front-end; now fresh in back-end through the .NET Track at Route Academy (Jul 2026 – Jan 2027).
+I build responsive, accessible websites with React.js, Next.js and TypeScript, and I make Arabic (RTL) and English (LTR) layouts feel native in both directions. Almost 3 years of professional front-end experience, plus back-end work with C#, .NET and SQL.
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-sabry-frontend/) | Alexandria, Egypt | Arabic (native), English (fluent)
 
@@ -15,22 +15,11 @@ I build responsive, accessible websites with React.js, Next.js and TypeScript, a
 
 Also: React Hook Form, shadcn/ui, Ant Design, Framer Motion, GSAP, REST APIs (Axios), Vercel, Netlify.
 
-## Back-end (fresh)
+## Back-end
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#, .NET" height="40">
 
-.NET Track at Route Academy, Jul 2026 – Jan 2027. The full curriculum and where I am:
-
-| Topic | What it covers | Status |
-|---|---|---|
-| C# fundamentals | Syntax, data types, control flow, methods | Done |
-| OOP | Classes, objects, encapsulation, inheritance, polymorphism, abstraction | Done |
-| Advanced C# | Delegates, async/await, generics, exception handling | Done |
-| Database | Database design, SQL, relationships | Done |
-| LINQ | LINQ operators, query execution | Next |
-| Entity Framework Core | Code First, migrations, snapshots, DbContext, tracking behavior | Upcoming |
-| ASP.NET Core | MVC, Web API, routing, middleware, configuration | Upcoming |
-| Architecture | Dependency injection, design patterns, architectures, authentication and authorization | Upcoming |
+C#, .NET, OOP, async/await, generics, delegates, SQL and database design.
 
 ## Selected work
 
